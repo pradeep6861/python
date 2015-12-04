@@ -1,14 +1,14 @@
-Strings
-Exception Handling
-Networking
-DB based programming
-Mapping and set types
-File i/o
-modules
+Strings   done
+Exception Handling    done
+Networking  sat
+DB based programming  sat
+Mapping and set types sat
+File i/o  sat
+modules fri
+abstract class fri
 Multithreading
 XML processing
 http request and response
-abstract class
-unit testing
+unit testing    done
 web services
 logging
